@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The new Westminster wedding or, The rampant vicar, being a full relation of the late marriage of J--- P--- clerk to Eliz. Hook, Spinster; the ceremony performed by a reverend jolly dutch-man. Licens'd Octob. 26. 1693.</title>
+         </titleStmt>
+         <extent>Approx. 15KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B27772</idno><idno type="EEBO-CITATION">99888484</idno>
+  <idno type="VID">202171</idno>
+  <idno type="EEBO-PROQUEST">2240902186</idno>
+  
+            <idno type="STC">Wing P61</idno>
+            <idno type="STC">Interim Tract Supplement Guide 816.m.19.[59]</idno>
+            <idno type="STC">ESTC R230457</idno>
+            <idno type="PROQUEST">ocm99888484</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99888484e"/>
+            <note>(EEBO-TCP ; phase 2, no. B27772)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 202171)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; D2:1[63])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The new Westminster wedding or, The rampant vicar, being a full relation of the late marriage of J--- P--- clerk to Eliz. Hook, Spinster; the ceremony performed by a reverend jolly dutch-man. Licens'd Octob. 26. 1693.</title>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for the inhabitants of Ipswich, and parts adjacent.,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>[1693]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Place and date of publication from Wing.</note>
+                  <note>Filmed copy at UMI Tracts Supplement reel D2 is stained, with loss of print and print show through.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Marriage --  Humor --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-05 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Kate Allen </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Kate Allen</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="narrative">
+            <pb n="1" facs="tcp:202171:1"/>
+            <head>
+               <hi>The New</hi> Westminster Wedding: <hi>Or, The Rampant Vicar. Being a full Relation of the late Marriage of</hi> J—P<hi>— Clerk, to</hi> Eliz. Hook, <hi>Spinster; The Ceremony performed by a Reverend Jolly</hi> Dutch-man.</head>
+            <head type="sub">Licens'd <hi>Octob.</hi> 26. 1693.</head>
+            <p>NOT far distant from the Town of <hi>I—</hi>lived a famous <hi>Belwea<g ref="char:EOLhyphen"/>ther,</hi> a not over Spiritual Guide of his <hi>Flock,</hi> being indeed so zealous a Professor of Libertinism and Carnality, that at least his practical Part of Theology was not extraordinary Exem<g ref="char:EOLhyphen"/>plar. This new Belswagger, for so we may justly entitle him, a poor Retainer to one of the Universities formerly, and possibly so far indebted to the Gown as to cover some very notorious Human Frailties, under the shrowd of Sanctity, was egregiously famous even in his Minor Days, for Looking a little too amorously upon his Bedmaker's Maids, sometimes even to the hazard of a College Rebuke, if not to an Expul<g ref="char:EOLhyphen"/>sion; but having with his small Pittance of Divinity and the help of good Friends, arrived to a small <hi>Gura Arimarum</hi> in the <hi>S—</hi>Ah; for want of some Feminine Refreshments, the Sisterhood of his own Country Parish being not altogether so malleable as his Inclinations could well wish them; and indeed Reputation obliging him not to be over bold in Foraging near home: Our Wise <hi>Renard</hi> very prudently thought fit to spare his own Neighbors Hen roosts, and ramble a little farther to <hi>Lon<g ref="char:EOLhyphen"/>don</hi> for a Virgin Pullet, <hi>&amp;c.</hi>
+            </p>
+            <q>
+               <l>In the merry Month of August,</l>
+               <l>When one won't another must.</l>
+            </q>
+            <p>(As the Learned B<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rd has it.) He takes a Slip to this Town of Sin and Sea coal, for the Reasons above named. And happening to lodge towards <hi>Westminster,</hi> amongst his several daily and more nightly Rambles, he dropt one day into a small <hi>Dutch</hi> Cookshop in Brewers yard near King-street, being invited by a far Inscription over the Door, <hi>Of good Ordinaries for</hi> 4 <hi>d.</hi> 6 <hi>d. or</hi> 8 <hi>d.</hi> What between a Parsimonious Temper, but a c<gap reason="illegible" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>ng Stomach, so tempting an Invitation made him a Customer to this cheap Ea<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ing House. Having one day entred this fair Roof of Hospitality, he strain'd his Purse to the whole Expence of a Tester, and what with the help of Elemosinary Porrage into his Commons, he made a shife with a Slice of boil'd Beef well rigg'd round with Cabbidge to fill the Chinks, to make's sumptuous gawdy Day's <hi>Regale.</hi>
+            </p>
+            <p>Now whilst his Teeth were merrily going; his Eye too happen'd to be a little Roving, (for he could Exercise more Senses than one at a time) when s<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ying a very pretty tight Young <hi>Fro</hi> of about Sixteen as heartily as he had Din'd, he had anew Hunger set agog, being so suddenly and so strangly smitten, (a fit that takes him often) as to have a more than Canine Appe<g ref="char:EOLhyphen"/>tite to this Fair <hi>Fro.</hi> Having wip'd his Mouth, and cry'd, <hi>By'r Lea<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e,</hi> he takes his last Course, by way of Sweet-meats, and Dessert, upon the young Da<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>se<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ps, when immediately breatking out into a violent Eruption of
+<pb n="2" facs="tcp:202171:2"/> Love, he declares that all <hi>England</hi> afforded not so sweet a Creature; Nay, and please <hi>Heaven,</hi> he had one particular Veneration more for our Happy Revolution, since it was in some measure an occasion of bl<gap reason="illegible" resp="#murp" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>ing his Eyes with so Fair an Object; and he should ever Honor that happy Country that could produce so lovely a Sweetness. The poor Girl could make him but little reply, being not altogether a Mrs. of the <hi>English Tongue;</hi> for though she had been half a Year in <hi>England,</hi> and in that time had learnt pretty well to understand the Language, yet she could speak but very little of it: But by a Natural Vanity of the Sex, she could not but lend an Ea<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap> to so many Amorous Raptures and high Compliments that were made her, though otherwise a very Modest Girl. She was not very forward in the Concession of Favors, though to so pressing an humble Serv<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nt as her passionate Admirer.</p>
+            <p>Our Inamorate is contented with this first days progress in his new Amour, and come, the Morrow again, to bring all his Artilery, and lye down before her with all the preparation of a formal Siege: And between Friends, he felt an extraordinary <hi>Taundre</hi> and Titillation towards her, above all his former Inclinations if only for the sweet Sin of Variety: For having pretty well tryed all sorts of Engli<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>h Complexions and Consti<g ref="char:EOLhyphen"/>tutions, he had a more particular Curiosity for a <hi>Dutch-land</hi> Mi<gap reason="illegible" resp="#murp" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ress Coming again the next day, and finding the Girl a professor of Ver<g ref="char:EOLhyphen"/>tue, he begins to think an Attack by way of Gallantry would not suc<g ref="char:EOLhyphen"/>ceed; therefore resolves to make his Aproaches▪ by the way of Hono<g ref="char:EOLhyphen"/>rable Matrimony: Accordingly he declares that he has no other inten<g ref="char:EOLhyphen"/>sions but Vertue; both his Profe<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>sion and Principles are above any thought of Lewdness or Wickedness; no Heaven forbid he Courts her for a Wife and if she can condescend to accept of him in that Holy State of Wedlock, to sit in the best Pew in a Country Church, and have himself and his Tithe Pigs her very Humble Servants, He Vows he will Marry her In<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>tantly; and to shew what V<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>neration and Affection he has for her, he desired her to accept of a small Present of forty Half-Crowns as a Token and Tribute of his Love; which the poor Girl refused at first to accept, as po<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>sibly being too Cunning ('tho otherwise none of the Wise Vergins) to handle his Mony, lest it might be an occasion of encouraging his hopes of too easie a Surren<g ref="char:EOLhyphen"/>der; for she woold not open to so poor a Golden Key as five Pounds. Hereupon our <hi>Jehu-Amorist</hi> resolving not to quit till he could Storm, presses home the old Argument of Marriage, desiring the House to fur<g ref="char:EOLhyphen"/>nish him with a Common Prayer Book, and he would Marry himself to her immediately, urging withal that who could join them together in Wedlock better than himself and was ready to do the same Execution for himself as he had done for Hundreds of other Couples before. The poor Girl, who understood very little of our English <hi>Doctor's-Commons</hi> Law, and how far such a Marriage would hold good, nevertheless, little distrusting so large a Protestor as her Canonical Humble Servant, knew but little difference in the form of Marriage: But whether her Mother or any other Friends had taught her to bite at no love Bait, but <hi>To have, and to hold,</hi> her Capacity reach'd no higher than Marriage in General, without any enquiry into Circumstance and Particulars. 'Twas enough that this Gentleman Lover was much above her humble Capacity, not in the least doubting but he had infinite Ecclesiastick Preferments ac<g ref="char:EOLhyphen"/>cording
+<pb n="3" facs="tcp:202171:3"/> to his own repeaired assurance given her, of what wonderful Figure he made in his own Country Church to which he would Coach her down in no lsttle Pomp and Splendor, if she pleased to bless him with her Embraces. And therefore as I was saying, baving little For<g ref="char:EOLhyphen"/>tunes of her own more than a Mid-land <hi>Water-Mill,</hi> she could not well resist so potent Pretentions as her Wealthy and Hon<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rable Lover's. However as I said before being not over kill'd in <hi>E<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>glish,</hi> she made some scruple at Co<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>pling in a Language she undershood so little of be<g ref="char:EOLhyphen"/>ing in some respect reso<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ved to know well what she did in so Impor<g ref="char:EOLhyphen"/>tant a Matter, having so far at least learned one of our Proverbs, <hi>Fast Bind, Fast find.</hi>
+            </p>
+            <p>The Doctor, (for so we'll call him) tho perhaps no high Graduate in the University Literature we may presume to say, he has reach'd the very Top-Learning in some other Arts and Faculties, as you'll find by the Sequel.</p>
+            <p>Our Doctor makes Answer, That he is so far from giving her any Scruples that way, that if she pleases, he'll Marry her i<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <hi>Hebrew▪ Greek, Arabick, Dutch, Welsh Irish,</hi> or any Tongue or Language since the days of <hi>Babel;</hi> provided he can but Wed her any ways and be the blest happy Man her Husband at any Price. This frank Offer thus publickly made, it happen'd that a <hi>Dutch</hi> Man amongst four or five other Guests at that time in the House, immediate'y pull'd a Dutch Divinity Book out of his Pocket and swore <hi>[Sacraamont]</hi> hee'd Marry them himself rather than fail which the Prrson instantly embraced, and desired him by all means to exercise his best D<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>c<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>. T<gap reason="illegible" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> to g<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>tify his hear lovely <hi>Fro</hi> with her own Country Rites and Ceremonies. Hereupn a clear Stage and no Favour; our <hi>Dutch-man</hi> stepping up for an absolute Orthodox of the <hi>Belgick</hi> Church Militan<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, read (as is re<g ref="char:EOLhyphen"/>ported) through the whole <hi>Amsterdam</hi> Office of M<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>trsmony, in most ample Form and Manner: One thing was observable, that the hastiness of the Wedding-work had not furnish'd our Doctor with a Ring, and therefore with a sudden presence of Mind, to supply that want, he whipt off a small Horn-ring, a little Implement, at that time upon his Dear <hi>Fro's</hi> little Finger, and as dextrously translated it to the Marri<g ref="char:EOLhyphen"/>age Finger Joynt, and as Magisterially too as if it had been the gayest and richest <hi>Lombard-street</hi> Jewel, assuring her at the same time, that he should change it to Morrow for that of a better, Motto to grace her fair Hand withal; the whole Execution being heartily, tho somewhat Homelily perform'd, he calld her his Spouse, and a<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>sured he<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> that as he he had Married her in her Church to day, he would enjoin her to do him the Honor of repeating the Ceremony in his own Church to Mo<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>row▪ for he had so high a Love and Value for her, that she must Pardon him if it was the greatest Pride he had in this World to So<g ref="char:EOLhyphen"/>lemnize his Nuptials with so dear a Creature, in the Face of the whole Universe, as his only Glory in such a Bride.</p>
+            <p>After this, he Invited his Parson and his Brethren to take part of a Dinner with him, which was the best the House at that short Warning could supply them with; where Mrs Brides He<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>lth was plentifully Repe<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ted in the good juice of <hi>Barley;</hi> for our provident Bridegroom out of a pretence of favour to the Landlady, would by no mean<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> send out for any Wsne, but contents himself with the <hi>English</hi> Manufacture of <hi>Ale,</hi> the Furniture of her own Cellar.</p>
+            <pb n="4" facs="tcp:202171:4"/>
+            <p> Night appr<gap reason="illegible" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>ing and consumm<gap reason="illegible" resp="#keyers" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>on drawing on, the made a shift to prevail for<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>a Be<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the Landlady's House; and having promised loudly what wonders he would do for her such as new Marrying her more Publickly and then providing her all the Richest Equipage of Apparel, and what not suitab<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e to his Wife in order to the carrying her down to his Vicarage▪ his Propositions wrought so far, and his Integrity ap<g ref="char:EOLhyphen"/>peared so real, that <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Innocent lay by his Side; where we'll leave him to <gap reason="illegible" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> and Riots of Delight, that a good Sanguine Complexion'd Bridegroom could possess in the Charms of an Innocence of Sixteen.</p>
+            <p>The next day he pretended to buy her the promised new Wedding Ring which promise indeed was not performed by reason he had resolved to sprin<g ref="char:EOLhyphen"/>kle a small Diamond or two in it, with which he could not be supply'd Ex<g ref="char:EOLhyphen"/>tempore, and therefore must wait the Goldsmiths making such a one for him. The second Night again he repeated the former Felicities in her soft Arms, and after Dinner next day, having taken a plentiful Dose to supply the evaporated Spirits in his two Nights Engagement, the cheerfulness of a mer<g ref="char:EOLhyphen"/>ry <gap reason="illegible" resp="#keyers" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> so exhilerated his Kidney, and open'd his bountiful Hand, that he gave her all the Mony in his Pocket, his All indeed, being 5 <hi>l.</hi> 10 <hi>s.</hi> to buy her a new Gown, Commissioning her instantly to go and lay it out ac<g ref="char:EOLhyphen"/>cordingly; which he had no sooner done, but be laid him down upon a Bench, a homely Couch, and fell asleep: Whence, when he awaked, mis<g ref="char:EOLhyphen"/>sing his Mony, he bellow'd out, Thieves and Pick-pockets; The poor Bride, who not having yet fixt upon the Choice of her Silks was luckily return'd <gap reason="illegible" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> restored the▪ 5 <hi>l.</hi> 10 <hi>s.</hi> But our Bridegroom wanting a little of her Dower too into the Bargain▪ ☞ for House-keeping is chargeable, had now raised the Sum to 8 <hi>l.</hi> 15 <hi>s.</hi> the re<g ref="char:EOLhyphen"/>mainder of which she had downright robb'd him of: All the was doleful Marriage Musick to the Young <hi>Fro.</hi> But, not only the whole Honymoon of Love was run out in two short Nights nor that alone but the M<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rr<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ge it self was all Sham, his Name was <hi>
+                  <gap reason="illegible" resp="#keyers" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>ford,</hi> and he knew nothing of the Matter; Nay, more tha<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> all this if she could not refund the whole 8 <hi>l.</hi> 15 <hi>s.</hi> she must instantly go before the Face of Authority, and (Mony or Hemp) take what follows. And though in hearty Sadness she had not embezell'd one Farthing of his Mony, but the 5 <hi>l.</hi> 10 <hi>s.</hi> refunded was the utmost Groat, Yet considering he could not afford the Labour of his Chine under some valuable Reward for his pains, he had no way to book it in but by this Legerdemain, which Sum demanded being not forth com<g ref="char:EOLhyphen"/>ing, he carries her before a Justice of the Peace who being very tender in the matter of the Oath he gave him; He first charg'd her with 8 <hi>l.</hi> 15 <hi>s.</hi> then 8 <hi>l.</hi> but at last upon his absolute Sacerdotal Veracity, he Kiss'd the Book to the Sum of between seven and eight peremptory Pounds taken from him by downright picking his Pocket; upon which Charge she was committed to the <hi>Gate-house,</hi> from thence translated to <hi>Newgate,</hi> where the Villany of the Accusation was made out so plain that she was aquitted with Reputation and the Blackness of our Pulpiteer's Sh<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e sufficiently exploded.</p>
+            <p>The poor Girl has hereupon very much resented her <hi>English</hi> Misfor<g ref="char:EOLhyphen"/>tunes, and on <hi>Friday</hi> the 27th of this instant <hi>Octob.</hi> sets out homewards again for <hi>Amsterdam,</hi> resolving to quit all thoughts of such barbarous <hi>Eng<g ref="char:EOLhyphen"/>lish</hi> Matrimony, and patch up her crackt Virginity for a more deserving <hi>Flemish</hi> Lover.</p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Printed for the Inhabitants of <hi>Ipswich,</hi> and Parts Adjacent.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
